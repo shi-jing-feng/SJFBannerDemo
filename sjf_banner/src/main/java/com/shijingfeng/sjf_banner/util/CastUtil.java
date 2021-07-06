@@ -5,6 +5,7 @@ package com.shijingfeng.sjf_banner.util;
  * Author: ShiJingFeng
  * Date: 2019/11/8 13:36
  * Description:
+ * Author: ShiJingFeng
  */
 public class CastUtil {
 
